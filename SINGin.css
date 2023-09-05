@@ -1,0 +1,110 @@
+form {
+   
+    width: 400px;
+    padding-bottom: 40px;
+    border: solid;
+    border-width: 1.5px;
+    border-radius: 5px;
+    margin-left: 385px;
+    
+}
+form h3{
+    font-size: 30px;
+    font-family: arial;
+    font-weight: 100;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.Email{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 13px;
+   margin-left: 30px;
+   
+}
+
+.Email-inp{
+    width: 80%;
+    height: 25px;
+    border-radius: 5px;
+    border: solid;
+    margin-left: 30px;
+    border-width: 1.4px;
+
+}
+.btn-Sign{
+    width: 80%;
+    border: solid;
+    background-color: #f0c14b;
+    height: 32px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+
+.btn-Create{
+    width: 80%;
+    border: solid;
+    background-color: #adb1b8 #a2a6ac #8d9096;
+    height: 32px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border-width: 1.4px;
+}
+.btn-Create:hover{
+    background-color: #a2a6ac;
+
+}
+
+.btn-Sign:hover{
+    background-color: #f5cb60;
+}
+/*FOTTER SECTION START*/
+
+.fotter{
+    
+   
+    width: 100%;
+    height: 130px;
+    border-color: #a2a6ac;
+    padding-bottom: 10px;
+    width: 100%;
+    
+   
+    
+    
+}
+
+.fotter-a a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-weight: lighter;
+    color: #0f79af;
+}
+.fotter-a a:hover{
+    color: #0f79af;
+}
+
+.fotter p{
+    color: #949494;
+    padding-left:75px;
+    font-weight: lighter;
+}
+.fotter-a{
+    margin-left: 30px;
+}
+
+.fotter-img{
+    
+    
+    object-fit: cover;
+   
+    padding-top: 30px;
+ padding-left: 150px;
+
+
+}
+
+.fotter-all{
+   padding-left: 350px;
+}
